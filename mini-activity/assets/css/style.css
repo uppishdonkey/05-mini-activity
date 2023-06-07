@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightgoldenrodyellow;
+    font-size: 50px;
+}
+
+.form {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    margin: 5px;
+}
